@@ -7,7 +7,7 @@ export const TransactionList = () => {
 
   return (
     <>
-      <h3>History</h3>
+      <h3>Past Transactions</h3>
       <ul id="list" className="list">
         {transactions.map((trans) => (
           <Transaction key={trans.id} eachtrans={trans} />
