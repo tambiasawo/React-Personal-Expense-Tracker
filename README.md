@@ -5,3 +5,4 @@ Try out the live demo @ https://expense1-tracker-va.netlify.app/
 ### Technologies Used: 
 - React
 - CSS
+- JavaScript
